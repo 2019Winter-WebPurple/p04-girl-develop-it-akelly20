@@ -1,0 +1,50 @@
+/*
+* Anna Kelly
+* 5/1/19
+* Girl Develop It
+*/
+
+/* the universal selector */
+
+* {margin: 5px;
+    padding: 0px;
+
+}
+
+/* Body properties here */
+
+body {
+    background-color: lightpink;
+    font-family: "Arial", serif;
+}
+
+#notbf {float: right;}
+#laptops {float: right;}
+
+h3 {font-family: cursive;
+font-size: 200%}
+
+h4 {font-family: cursive;
+font-size: 150%}
+
+a:link{
+    color: blue;
+    text-decoration: underline;
+}
+
+a:hover{
+    color:magenta;
+    text-decoration:underline;
+    font-size:150%
+}
+
+#girldevelopit {
+   width: 500px;
+    height: 200px;
+    
+}
+
+header{ 
+    text-align: center;
+    background-color: #ff6666;
+}
